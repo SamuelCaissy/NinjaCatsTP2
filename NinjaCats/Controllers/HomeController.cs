@@ -54,7 +54,7 @@ namespace NinjaCats.Controllers
                 {
                     Name = "le monsieur/mme #" + i,
                     Address = "sous ton lit",
-                    Type = r.Next(2) == 0 ? "travailleur" : "membre",
+                    Type = r.Next(2) == 0 ? "Maitre" : "Chat ninja",
                     Description = "description de la mort qui tue"
                 }); 
             }
