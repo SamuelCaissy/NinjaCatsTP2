@@ -34,3 +34,7 @@ a:hover {
 .card-body {
     background-color: #9F2B00;
 }
+
+tr:hover, th:hover, td:hover {
+    background-color: #9F2B00;
+}
