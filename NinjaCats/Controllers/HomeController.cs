@@ -18,7 +18,7 @@ namespace NinjaCats.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Confidentialité()
         {
             return View();
         }
