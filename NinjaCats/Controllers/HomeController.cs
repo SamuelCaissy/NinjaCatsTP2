@@ -19,12 +19,17 @@ namespace NinjaCats.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Confidentialite()
         {
             return View();
         }
 
         public IActionResult Inscription()
+        {
+            return View();
+        }
+
+        public IActionResult Propos()
         {
             return View();
         }
